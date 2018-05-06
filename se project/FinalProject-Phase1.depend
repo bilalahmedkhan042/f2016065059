@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1514997872 source:f:\codes\finalproject-phase1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Admin.cpp"
+	"Teacher.cpp"
+	"Student.cpp"
+
+1515081144 f:\codes\finalproject-phase1\admin.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<bits/stdc++.h>
+
+1515081144 source:f:\codes\finalproject-phase1\admin.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<bits/stdc++.h>
+
+1514997555 f:\codes\finalproject-phase1\teacher.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Course.cpp"
+	<bits/stdc++.h>
+
+1514997555 source:f:\codes\finalproject-phase1\teacher.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Course.cpp"
+	<bits/stdc++.h>
+
+1514995313 f:\codes\finalproject-phase1\course.cpp
+	<iostream>
+	<string>
+
+1514995313 source:f:\codes\finalproject-phase1\course.cpp
+	<iostream>
+	<string>
+
+1515087744 source:f:\codes\finalproject-phase1\student.cpp
+	<iostream>
+	"StudentCourse.cpp"
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1515088505 f:\codes\finalproject-phase1\student.cpp
+	<iostream>
+	"StudentCourse.cpp"
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1514995987 f:\codes\finalproject-phase1\studentcourse.cpp
+	<iostream>
+	<string>
+
+1514995987 source:f:\codes\finalproject-phase1\studentcourse.cpp
+	<iostream>
+	<string>
+
+1525588494 source:c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\admin.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<bits/stdc++.h>
+
+1525589016 source:c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\course.cpp
+	<iostream>
+	<string>
+
+1525589319 source:c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\student.cpp
+	<iostream>
+	"StudentCourse.cpp"
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1525589103 c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\studentcourse.cpp
+	<iostream>
+	<string>
+
+1525589103 source:c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\studentcourse.cpp
+	<iostream>
+	<string>
+
+1525589083 source:c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\teacher.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Course.cpp"
+	<bits/stdc++.h>
+
+1525589016 c:\users\bilal khan\desktop\finalproject-phase1\finalproject-phase1\course.cpp
+	<iostream>
+	<string>
+
